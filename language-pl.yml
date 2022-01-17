@@ -1,0 +1,24 @@
+---
+noPermission: "&cNie masz uprawnień do wykonania tego polecenia."
+kickmessage: "&cSerwer jest obecnie w trakcie konserwacji!%NEWLINE%&cSpróbuj ponownie
+  później!"
+maintenanceActivated: "&8[&eKonserwacja&8] &6Tryb konserwacji jest teraz aktywny."
+maintenanceDeactivated: "&8[&eMaintenance&8] &6Tryb konserwacji jest teraz nieaktywny."
+alreadyEnabled: "&8[&eMaintenance&8] &cTryb konserwacji jest już aktywny!"
+alreadyDisabled: "&8[&eMaintenance&8] &cTryb konserwacji jest już wyłączony!"
+endtimerBroadcast: "&8[&eMaintenance&8] &7Tryb konserwacji zostanie wyłączony za &6%TIME%&7."
+endtimerStarted: "&8[&eKonserwacja&8] &aUruchomiono timer: &7Tryb konserwacji zostanie
+  wyłączony za &6%TIME%&7."
+starttimerBroadcast: "&8[&eMaintenance&8] &7Tryb konserwacji zostanie włączony za
+  &6%TIME%&7."
+starttimerStarted: "&8[&eKonserwacja&8] &aUruchomiono timer: &7Tryb konserwacji zostanie
+  włączony za &6%TIME%&7."
+scheduletimerBroadcast: "&8[&eKonserwacja&8] &7Tryb konserwacji zostanie włączony
+  za &6%TIME% &7i będzie trwał przez &6%DURATION%&7."
+timerAlreadyRunning: "&8[&eKonserwacja&8] &cZaplanowano już timer!"
+timerNotRunning: "&8[&eKonserwacja&8] &cObecnie nie ma uruchomionych timerów."
+timerCancelled: "&8[&eKonserwacja&8] &cBieżący timer został wyłączony."
+timerTooLong: "&8[&eKonserwacja&8] &cLiczba musi być mniejsza niż 40320 (28 dni)!"
+timerMotdDisabled: "&8[&eKonserwacja&8] &cMusisz ustawić 'enable-timerspecific-messages'
+  w konfiguracji na 'true', jeśli chcesz używać/edytować motd specyficznych dla timera."
+joinNotification: "&8[&eKonserwacja&8] &e%PLAYER% &próbował dołączyć do serwera."
