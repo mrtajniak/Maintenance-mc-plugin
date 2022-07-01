@@ -21,4 +21,14 @@ timerCancelled: "&8[&eKonserwacja&8] &cBieżący timer został wyłączony."
 timerTooLong: "&8[&eKonserwacja&8] &cLiczba musi być mniejsza niż 40320 (28 dni)!"
 timerMotdDisabled: "&8[&eKonserwacja&8] &cMusisz ustawić 'enable-timerspecific-messages'
   w konfiguracji na 'true', jeśli chcesz używać/edytować motd specyficznych dla timera."
+motdTimer: "%HOURS%:%MINUTES%:%SECONDS%"
+motdTimerNotRunning: "-"
 joinNotification: "&8[&eKonserwacja&8] &e%PLAYER% &próbował dołączyć do serwera."
+whitelistedPlayersFormat: "&8- &e%NAME% &8(&7%UUID%&8)"
+second: sekunda
+seconds: sekundy
+minute: minuta
+minutes: minuty
+hour: godzina
+hours: godziny
+helpHeader: "&8========[ &e%NAME% &8| &e%PAGE%/%MAX% &8]========"
